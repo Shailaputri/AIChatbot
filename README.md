@@ -4,10 +4,10 @@
 =======
 **Login Page (Landing):**.   
 Here existing user can login. New user can create account. &nbsp;     
-![Alt text](Attachments/loginPage1.jpeg?raw=true)&nbsp; 
+![Alt text](Attachments/loginPage1.png?raw=true)&nbsp; 
 &nbsp; 
 
-![Alt text](Attachments/loginPage.jpeg?raw=true)&nbsp; 
+![Alt text](Attachments/loginPage.png?raw=true)&nbsp; 
 
 
 Throws error if login details are filled incorrectly. 
@@ -16,7 +16,7 @@ Throws error if login details are filled incorrectly.
 &nbsp;  
 **Register Page:**.    
 Here new user can create an account by filling different fields.  
-![Alt text](Attachments/registerPage.jpeg?raw=true)&nbsp;   
+![Alt text](Attachments/registerPage.png?raw=true)&nbsp;   
 
 If password1 != password2 it throws error.  
 ![Alt text](Attachments/registerError.png?raw=true)&nbsp;   
@@ -24,17 +24,17 @@ If password1 != password2 it throws error.
 
 **AIChatbot Page:**.    
 Here user is greeted by a welcome message. Addressing his username credentials.
-![Alt text](Attachments/PreWelcomeMsg.jpeg?raw=true)&nbsp;   
+![Alt text](Attachments/PreWelcomeMsg.png?raw=true)&nbsp;   
 
 User can type his/her query.
-![Alt text](Attachments/User2.jpeg?raw=true)&nbsp;   
+![Alt text](Attachments/User2.png?raw=true)&nbsp;   
 
 History of conversation is saved even after user logsout. This conversation is saved in Database
 and differs for different user. 
-![Alt text](Attachments/HistoryOfConv.jpeg?raw=true)&nbsp; 
+![Alt text](Attachments/HistoryOfConv.png?raw=true)&nbsp; 
 
 admin page(backend)
-![Alt text](Attachments/adminpage.jpeg?raw=true)&nbsp; 
+![Alt text](Attachments/adminpage.png?raw=true)&nbsp; 
 
 
 **Logout:**. 
