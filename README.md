@@ -20,14 +20,7 @@ Here new user can create an account by filling different fields.
 
 If password1 != password2 it throws error.  
 ![Alt text](Attachments/registerError.png?raw=true)&nbsp;   
-
-
-**Register Page:**.    
-Here new user can create an account by filling different fields.  
-![Alt text](Attachments/registerPage.jpeg?raw=true)&nbsp;   
-
-If password1 != password2 it throws error.  
-![Alt text](Attachments/registerError.png?raw=true)&nbsp;   
+  
 
 **AIChatbot Page:**.    
 Here user is greeted by a welcome message. Addressing his username credentials.
